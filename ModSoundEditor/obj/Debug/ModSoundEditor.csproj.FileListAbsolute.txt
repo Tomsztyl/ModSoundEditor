@@ -1,0 +1,12 @@
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\bin\Debug\ModSoundEditor.exe
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\bin\Debug\ModSoundEditor.pdb
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\obj\Debug\ModSoundEditor.csprojAssemblyReference.cache
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\obj\Debug\ModSoundEditor.Properties.Resources.resources
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\obj\Debug\ModSoundEditor.csproj.GenerateResource.cache
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\obj\Debug\ModSoundEditor.exe
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\obj\Debug\ModSoundEditor.pdb
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\bin\Debug\ModSoundEditorConf.config
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\obj\Debug\ModSoundEditor.ModSoundEditor.resources
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\obj\Debug\ModSoundEditor.Help.resources
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\obj\Debug\ModSoundEditor.PreparingFile.resources
+C:\Users\Tomsztyl\OneDrive\ModSoundEditor\ModSoundEditor\ModSoundEditor\bin\Debug\ModSoundEditor.exe.config
